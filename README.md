@@ -56,6 +56,7 @@ Generative AI が話題になっているけれども、どのように手をつ
 https://docs.aws.amazon.com/ja_jp/general/latest/gr/aws_service_limits.html
 
 ４. ハンズオンで Amazon Bedrock の Claude v2 を使用します。以下の手順を参考にして、us-east-1 リージョンで Claude 2 のモデルアクセスを有効にするよう設定をお願いいたします。
+https://github.com/yoshiokaCB/jaws-ug-shimane-20231028/blob/master/request_access.md
 
 
 ---
